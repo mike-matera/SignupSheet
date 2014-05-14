@@ -22,14 +22,14 @@ There are two top-level GWT modules:
 
 2.2. AntlrGWT Structure
 
-src/org/antlr/AntlrGWT.gwt.xml - Module Definition
-src/org/antlr/gwt/AntlrGWT.java - Trivial module entry point
-src/org/antlr/gwt/runtime - Runtime ANTLR code
+* src/org/antlr/AntlrGWT.gwt.xml - Module Definition
+* src/org/antlr/gwt/AntlrGWT.java - Trivial module entry point
+* src/org/antlr/gwt/runtime - Runtime ANTLR code
 
 2.3. SignupApp Structure
 
-src/com/fatboycentral/SignupApp.gwt.xml - Module Definition
-src/com/fatboycentral/client - Client-side Code
-src/com/fatboycentral/server - Server-side Code
-src/com/fatboycentral/shared - Code shared by both the client and server
-src/com/fatboycentral/shared/parser - Location of the generated parsers (*.g is the parser definition)
+* src/com/fatboycentral/SignupApp.gwt.xml - Module Definition
+* src/com/fatboycentral/client - Client-side Code
+* src/com/fatboycentral/server - Server-side Code
+* src/com/fatboycentral/shared - Code shared by both the client and server
+* src/com/fatboycentral/shared/parser - Location of the generated parsers (*.g is the parser definition)
