@@ -1,0 +1,12 @@
+/gwt-unitCache
+/antlr3.2-gwt-module.jar
+/gwt-jarbuilder.sh
+/war
+.classpath
+/.externalToolBuilders
+/.gwt
+.project
+/.settings
+/test
+/test-classes
+

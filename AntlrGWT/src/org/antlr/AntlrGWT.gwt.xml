@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to='antlrgwt'>
+	<inherits name='com.google.gwt.user.User' />
+	<entry-point class="org.antlr.gwt.AntlrGWT"></entry-point>
+	<source path='runtime'>
+	  <exclude name='**/debug/*' />
+	  <exclude name='SerializedGrammar.java' />
+	  <exclude name='ANTLRReaderStream.java' />
+	  <exclude name='ANTLRFileStream.java' />
+	  <exclude name='ANTLRInputStream.java' />
+	  <exclude name='misc/Stats.java' />
+	</source>
+	<source path='gwt' />
+</module>
